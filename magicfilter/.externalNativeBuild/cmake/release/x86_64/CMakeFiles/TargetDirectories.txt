@@ -1,0 +1,3 @@
+D:/gitlabs/MagicCamera/magicfilter/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/MagicJni.dir
+D:/gitlabs/MagicCamera/magicfilter/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+D:/gitlabs/MagicCamera/magicfilter/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\gitlabs\\MagicCamera\\magicfilter\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\android-sdk\\android-sdk\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\gitlabs\\MagicCamera\\magicfilter\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "MagicJni-Debug-arm64-v8a": {
+      "artifactName": "MagicJni",
+      "buildCommand": "D:\\android-sdk\\android-sdk\\android-sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\gitlabs\\MagicCamera\\magicfilter\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target MagicJni",
+      "abi": "arm64-v8a",
+      "output": "D:\\gitlabs\\MagicCamera\\magicfilter\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libMagicJni.so"
+    }
+  }
+}
